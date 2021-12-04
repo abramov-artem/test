@@ -1,0 +1,23 @@
+[2021-12-04 06:42:56.247] [exthost] [info] extension host started
+[2021-12-04 06:42:56.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-04 06:42:56.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/debug-auto-launch/dist/extension
+[2021-12-04 06:42:56.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-04 06:42:56.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/git/dist/main
+[2021-12-04 06:42:56.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-04 06:42:56.761] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/github/dist/extension.js
+[2021-12-04 06:42:56.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-04 06:42:56.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/emmet/dist/node/emmetNodeMain
+[2021-12-04 06:42:56.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-04 06:42:56.904] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/merge-conflict/dist/mergeConflictMain
+[2021-12-04 06:42:56.916] [exthost] [info] eager extensions activated
+[2021-12-04 06:42:56.918] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-12-04 06:42:56.918] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abramov/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/ms-vscode.js-debug/src/extension.js
+[2021-12-04 06:43:18.346] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1496
+[2021-12-04 06:49:39.357] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1496
+[2021-12-04 07:03:43.550] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1497
+[2021-12-04 07:03:49.220] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1368
+[2021-12-04 07:09:11.593] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1368
+[2021-12-04 07:09:16.706] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1368
+[2021-12-04 07:35:46.946] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1373
+[2021-12-04 08:29:07.249] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-04 08:29:08.537] [exthost] [info] exiting with code 0
