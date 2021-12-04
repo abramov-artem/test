@@ -1,5 +1,0 @@
-.*
-!.gitignore
-/html/*
-!/html/index*
-/data
