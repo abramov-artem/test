@@ -40,7 +40,7 @@ services:
     ports:
       - "8080:80"
     environment:
-      - TZ: Europe/Moscow
+      - TZ=Europe/Moscow
       - PMA_ARBITRARY=1
       - PMA_HOST=mysql
     depends_on:
